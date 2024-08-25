@@ -11,6 +11,6 @@ This is a simple Spring Boot application that performs basic CRUD operations on 
 
 
 
-This README file provides a clear overview of the project, including setup instructions, API endpoints, and testing guidelines. Feel free to customize it based on your specific project needs!
+This README file provides a clear overview of the project, including setup instructions, API endpoints, and testing guidelines.
 This is done by Sajith Sajan Koshy
 
